@@ -1,5 +1,5 @@
 function countdown () {
-  const countTime = new Date ("Febryary, 2023 12:10:00").getTime();
+  const countTime = new Date ("February, 2023 12:10:00").getTime();
   const currentTime = new Date().getTime();
   const distance = countTime - currentTime;
 
